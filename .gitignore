@@ -1,0 +1,7 @@
+email_config.py
+discover_cache.json
+hn_companies.json
+tracker.csv
+report.html
+__pycache__/
+*.pyc
