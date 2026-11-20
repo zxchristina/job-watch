@@ -57,7 +57,6 @@ companies.py       # registry of 116 verified ATS URLs + 201 auto-discover names
 | YOE | Drop if minimum required ≥ 5 years (parsed from JD text) |
 | Location | Keep: SF Bay Area cities + US remote; drop everything else |
 | Staleness | Drop postings older than 14 days |
-| Sponsorship | Flag (don't drop) JDs that say they won't sponsor visas |
 
 ## Freshness tiers
 
